@@ -1,0 +1,145 @@
+body {
+    background: linear-gradient(135deg, #000000, #ff2424, #ff4b3e, #f8f8f8, #666666);
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll; /* Adiciona uma barra de rolagem vertical */
+    background-repeat: no-repeat; /* Evita que o gradiente seja repetido */
+    height: 3000px;
+}
+
+
+
+header {
+    text-align: center;
+    padding: 20px;
+   
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+h3 {
+    margin: 10px 0;
+    text-shadow: 0 0 17px rgba(0, 0, 0, 0.9), 0 0 17px rgba(0, 0, 0, 0.9), 0 0 17px rgba(0, 0, 0, 0.9);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 9px;
+    box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.7);
+}
+
+a {
+    color: #000000;
+}
+
+.titulo {
+    font-family: Raleway, Arial, sans-serif;;
+    font-weight: bold;
+}
+
+.campo_retangulos {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.retangulo01 {
+    width: 215px;
+    height: 450px;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(5px); /* Aplica o desfoque ao fundo do retângulo */
+    background-color: linear-gradient(135deg, #000000, #ff2424, #ff4b3e, #f8f8f8, #666666);
+    
+}
+
+.colunas_tabela01 {
+    padding: 0px 50px 0px 50px;
+}
+
+.Hvideos {
+    color: #000000;
+    text-shadow: 0 0 17px rgba(0, 0, 0, 0.9), 0 0 17px rgba(0, 0, 0, 0.9), 0 0 17px rgba(0, 0, 0, 0.9);
+    font-size: 22px;
+    margin-top: 20px;
+    
+}
+
+
+
+
+
+/*TÔ TRABALHANDO AQ*/
+.campo01_retangulo01 {
+    padding: 0px 10px 0px 10px
+}
+
+.palavra_solta01 {
+    word-wrap: break-word;
+    padding: 10px 0px 0px 0px;
+    color: #000000;
+    font-weight: bold;
+    text-shadow: 0 0 12px rgba(0, 0, 0, 0.7), 0 0 10px rgba(0, 0, 0, 0.7), 0 0 25px rgba(0, 0, 0, 0.7);
+    
+}
+
+.campo_texto01 {
+    align-items: start;
+}
+
+.texto01 {
+    font-weight: bold;
+    padding: 10px 0px 0px 0px;
+    text-shadow: 0 0 17px rgba(0, 0, 0, 0.9), 0 0 17px rgba(0, 0, 0, 0.9), 0 0 17px rgba(0, 0, 0, 0.9);
+}
+
+
+
+
+.container_final {
+    height: 700px;
+    background: #6e0d0d;
+}
+
+.campo_elementos_finais {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.campo_texto02 {
+    max-width: 300px; 
+    word-wrap: break-word;
+    height: 600px;
+    width: 1000px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.zap {
+    font-weight: bold;
+    color:#000000;
+    
+}
